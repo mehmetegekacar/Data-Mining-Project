@@ -1,0 +1,13 @@
+params,mean_test_score of batch 0
+"classifier__alpha=0.1 tfidf__use_idf=False vectorizer__ngram_range=(1, 1) ",0.8322222222222222
+"classifier__alpha=0.1 tfidf__use_idf=False vectorizer__ngram_range=(1, 2) ",0.8447222222222223
+"classifier__alpha=0.1 tfidf__use_idf=True vectorizer__ngram_range=(1, 1) ",0.7994444444444445
+"classifier__alpha=0.1 tfidf__use_idf=True vectorizer__ngram_range=(1, 2) ",0.8291666666666666
+"classifier__alpha=1.0 tfidf__use_idf=False vectorizer__ngram_range=(1, 1) ",0.8369444444444444
+"classifier__alpha=1.0 tfidf__use_idf=False vectorizer__ngram_range=(1, 2) ",0.8405555555555555
+"classifier__alpha=1.0 tfidf__use_idf=True vectorizer__ngram_range=(1, 1) ",0.8250000000000001
+"classifier__alpha=1.0 tfidf__use_idf=True vectorizer__ngram_range=(1, 2) ",0.836388888888889
+"classifier__alpha=10.0 tfidf__use_idf=False vectorizer__ngram_range=(1, 1) ",0.7863888888888889
+"classifier__alpha=10.0 tfidf__use_idf=False vectorizer__ngram_range=(1, 2) ",0.7772222222222221
+"classifier__alpha=10.0 tfidf__use_idf=True vectorizer__ngram_range=(1, 1) ",0.7719444444444444
+"classifier__alpha=10.0 tfidf__use_idf=True vectorizer__ngram_range=(1, 2) ",0.7405555555555555
