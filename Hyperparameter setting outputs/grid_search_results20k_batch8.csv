@@ -1,0 +1,7 @@
+,params,mean_test_score of batch 8
+0,"{'svc__C': 0.1, 'svc__kernel': 'linear', 'tfidf__max_features': 5000}",0.8835333333333333
+1,"{'svc__C': 0.1, 'svc__kernel': 'rbf', 'tfidf__max_features': 5000}",0.8736444444444444
+2,"{'svc__C': 1, 'svc__kernel': 'linear', 'tfidf__max_features': 5000}",0.8879777777777779
+3,"{'svc__C': 1, 'svc__kernel': 'rbf', 'tfidf__max_features': 5000}",0.8920555555555557
+4,"{'svc__C': 10, 'svc__kernel': 'linear', 'tfidf__max_features': 5000}",0.8810777777777777
+5,"{'svc__C': 10, 'svc__kernel': 'rbf', 'tfidf__max_features': 5000}",0.8930000000000001

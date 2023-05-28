@@ -1,0 +1,13 @@
+params,mean_test_score of batch 0
+svc__C=0.1 svc__dual=False svc__loss=squared_hinge svc__penalty=l1 ,0.8932638888888889
+svc__C=0.1 svc__dual=False svc__loss=squared_hinge svc__penalty=l2 ,0.8989444444444444
+svc__C=0.1 svc__dual=True svc__loss=hinge svc__penalty=l2 ,0.8937666666666666
+svc__C=0.1 svc__dual=True svc__loss=squared_hinge svc__penalty=l2 ,0.898938888888889
+svc__C=1 svc__dual=False svc__loss=squared_hinge svc__penalty=l1 ,0.8953805555555555
+svc__C=1 svc__dual=False svc__loss=squared_hinge svc__penalty=l2 ,0.8939777777777778
+svc__C=1 svc__dual=True svc__loss=hinge svc__penalty=l2 ,0.8979694444444445
+svc__C=1 svc__dual=True svc__loss=squared_hinge svc__penalty=l2 ,0.8939694444444445
+svc__C=10 svc__dual=False svc__loss=squared_hinge svc__penalty=l1 ,0.8596194444444446
+svc__C=10 svc__dual=False svc__loss=squared_hinge svc__penalty=l2 ,0.8725388888888889
+svc__C=10 svc__dual=True svc__loss=hinge svc__penalty=l2 ,0.8832916666666666
+svc__C=10 svc__dual=True svc__loss=squared_hinge svc__penalty=l2 ,0.872525

@@ -1,0 +1,7 @@
+,params,mean_test_score of batch 0
+0,"{'classifier__alpha': 0.1, 'tfidf__use_idf': True, 'vectorizer__ngram_range': (1, 1)}",0.8336527777777777
+1,"{'classifier__alpha': 0.1, 'tfidf__use_idf': False, 'vectorizer__ngram_range': (1, 1)}",0.8584055555555555
+2,"{'classifier__alpha': 1.0, 'tfidf__use_idf': True, 'vectorizer__ngram_range': (1, 1)}",0.8443611111111111
+3,"{'classifier__alpha': 1.0, 'tfidf__use_idf': False, 'vectorizer__ngram_range': (1, 1)}",0.860736111111111
+4,"{'classifier__alpha': 10.0, 'tfidf__use_idf': True, 'vectorizer__ngram_range': (1, 1)}",0.8493611111111111
+5,"{'classifier__alpha': 10.0, 'tfidf__use_idf': False, 'vectorizer__ngram_range': (1, 1)}",0.8597138888888889
